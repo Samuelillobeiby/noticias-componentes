@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Subida componentes</title>
+  <subtitle>En esta página hablaremos sobre las especulaciones y las consecuencias que han tenido estas en los precios de los componentes de ordenadores.</subtitle>
+  <link href="http://www.ejemplo.com/atom.xml" rel="self" />
+  <link href="http://www.ejemplo.com/" rel="alternate" />
+  <updated>2025-11-01T10:00:00Z</updated>
+  <id>http://www.ejemplo.com/</id>
+  <author><name>Autor del Canal</name></author>
+  <entry>
+    <title>La especulación de la RAM</title>
+    <link href="http://www.ejemplo.com/noticia1" rel="alternate" />
+    <id>http://www.ejemplo.com/noticia1</id>
+    <updated>2025-11-01T10:00:00Z</updated>
+    <summary>La RAM no para de subir de precio: algunos packs 2x32 pueden sobrepasar los 500 USD y se especula que para 2026 podrían alcanzar 600–700 USD. (Imagen: https://i.imgur.com/TjL6kdh.jpeg)</summary>
+  </entry>
+  <entry>
+    <title>Procesadores Defectuosos</title>
+    <link href="http://www.ejemplo.com/noticia2" rel="alternate" />
+    <id>http://www.ejemplo.com/noticia2</id>
+    <updated>2025-11-01T10:00:00Z</updated>
+    <summary>El aumento de la demanda y la aceleración en la producción han provocado que muchos modelos salgan defectuosos, incrementando las devoluciones de usuarios. (Imagen: https://i.imgur.com/t72kU1T.jpeg)</summary>
+  </entry>
+  <entry>
+    <title>La Burbuja a punto de estallar</title>
+    <link href="http://www.ejemplo.com/noticia3" rel="alternate" />
+    <id>http://www.ejemplo.com/noticia3</id>
+    <updated>2025-11-01T10:00:00Z</updated>
+    <summary>El alza de precios y la especulación han generado un mercado de compraventa de componentes que podría formar una burbuja con riesgo de estallido. (Imagen: https://i.imgur.com/imPvi24.jpeg)</summary>
+  </entry>
+  <entry>
+    <title>El retraso de la compra de Ordenadores</title>
+    <link href="http://www.ejemplo.com/noticia4" rel="alternate" />
+    <id>http://www.ejemplo.com/noticia4</id>
+    <updated>2025-11-01T10:00:00Z</updated>
+    <summary>El aumento de precio de la RAM está ligado a la demanda para servidores de IA; aproximadamente un 31% de los pedidos de ordenadores son acaparados por la IA, retrasando compras de usuarios. (Imagen: https://i.imgur.com/BR7RNyh.jpeg)</summary>
+  </entry>
+</feed>
