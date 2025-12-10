@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Subida de los Componentes</title>
+    <title>Ejemplo Canal RSS</title>
     <link>http://www.ejemplo.com/</link>
-    <description>Especulación y consecuencias en los precios de los componentes de ordenadores.</description>
+    <description>Descripción del canal en RSS</description>
     <language>es</language>
 
     <item>
       <title>La especulación de la RAM</title>
       <link>https://i.imgur.com/TjL6kdh.jpeg</link>
-      <description>Uno de los temas más polémicos es la RAM, cuyo precio no para de subir. Algunos packs de 2x32 GB ya superan los 500$, y se cree que en 2026 podrían alcanzar los 600-700$.</description>
+      <description>La RAM sigue encareciéndose y algunos kits 2x32 GB superan los 500$. Podrían alcanzar 600-700$ en 2026.</description>
       <pubDate>Mon, 01 Nov 2025 10:00:00 GMT</pubDate>
       <guid>https://i.imgur.com/TjL6kdh.jpeg</guid>
     </item>
@@ -17,7 +17,7 @@
     <item>
       <title>Procesadores defectuosos</title>
       <link>https://i.imgur.com/t72kU1T.jpeg</link>
-      <description>El aumento de demanda y la competencia entre empresas ha incrementado la velocidad de producción, provocando que muchos procesadores salgan defectuosos y generen numerosas devoluciones.</description>
+      <description>El aumento de demanda y producción está generando más CPUs defectuosas y un incremento de devoluciones.</description>
       <pubDate>Mon, 01 Nov 2025 10:00:00 GMT</pubDate>
       <guid>https://i.imgur.com/t72kU1T.jpeg</guid>
     </item>
@@ -25,15 +25,15 @@
     <item>
       <title>La burbuja a punto de estallar</title>
       <link>https://i.imgur.com/imPvi24.jpeg</link>
-      <description>El incremento de precios ha generado una ola de especuladores que compran y venden componentes, creando una burbuja que podría estallar en cualquier momento.</description>
+      <description>La subida general de precios ha provocado especulación masiva y un riesgo de burbuja inminente.</description>
       <pubDate>Mon, 01 Nov 2025 10:00:00 GMT</pubDate>
       <guid>https://i.imgur.com/imPvi24.jpeg</guid>
     </item>
 
     <item>
-      <title>El retraso en la compra de ordenadores</title>
+      <title>Retraso en la compra de ordenadores</title>
       <link>https://i.imgur.com/BR7RNyh.jpeg</link>
-      <description>El precio de la RAM aumenta debido a la alta demanda por parte de los servidores de IA, lo que provoca que aproximadamente el 31% de los pedidos de ordenadores estén siendo acaparados por este sector.</description>
+      <description>La demanda de RAM para servidores de IA acapara el 31% de los pedidos y retrasa compras de PCs.</description>
       <pubDate>Mon, 01 Nov 2025 10:00:00 GMT</pubDate>
       <guid>https://i.imgur.com/BR7RNyh.jpeg</guid>
     </item>
